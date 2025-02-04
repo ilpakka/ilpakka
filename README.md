@@ -1,8 +1,8 @@
 # Hello there, I'm Ilja
 🎓 Currently studying Information Technology and Cybersecurity<br>
-⚔️ Focusing on Pentesting and SOC Environments<br>
-💼 Experience in Fraud Investigation and Forensics<br>
-🔍 Expanding on Vulnerabilities, Cryptography and Social Engineering<br>
+⚔️ Focusing on Quantum Cryptography and Pentesting<br>
+💼 Experience in Fraud Investigation and Digital Forensics<br>
+🔍 Expanding on Social Engineering, Data Security and Web Vulnerabilities<br>
 🧩 Coordinator @ H-T8
 
 
