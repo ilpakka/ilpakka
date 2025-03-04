@@ -1,9 +1,8 @@
-# Hello there, I'm Ilja
-🎓 Currently studying Information Technology and Cybersecurity<br>
-⚔️ Focusing on Quantum Cryptography and Pentesting<br>
+# Hello there, I'm Ilja Ylikangas.
+🎓 Currently studying Information Technology & Cybersecurity<br>
 💼 Experience in Fraud Investigation and Digital Forensics<br>
-🔍 Expanding on Social Engineering, Data Security and Web Vulnerabilities<br>
-🧩 Coordinator @ H-T8
+🔍 Focusing on Information Security and Pentesting<br>
+🧩 Coordinator and Board member @ H-T8
 
 ![](https://komarev.com/ghpvc/?username=ilpakka&color=orange)
 
