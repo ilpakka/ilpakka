@@ -2,8 +2,8 @@
 🎓 Currently studying Information Technology & Cybersecurity<br>
 💼 Experience in Fraud Investigation and Digital Forensics<br>
 🔍 Focusing on Information Security and Pentesting<br>
-💎 Developing Games, Designing Websites and Creating Art
-🏆 THM Leaderboards, Chess.com Finland's Rank #5
+💎 Developing Games, Designing Websites and Creating Art<br>
+🏆 THM Leaderboards, Chess.com Finland's Rank #5<br>
 🧩 Coordinator and Board member @ H-T8
 
 ![](https://komarev.com/ghpvc/?username=ilpakka&color=orange)
