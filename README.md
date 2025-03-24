@@ -1,7 +1,7 @@
 <div align="center">
 
 # Welcome. My name is Ilja Ylikangas.
-🎓 Information Technology & Cybersecurity<br>
+🎓 Information Technology Student<br>
 💎 Chess problemist / Polyglot / Tolkien Enthusiast / Enjoyer of Games<br>
 💼 Background in Fraud Investigation, AML, IR, and SAR/STR<br>
 <br>
