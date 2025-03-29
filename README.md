@@ -8,7 +8,7 @@
 🏆 THM Top 10%, Chess.com Ranked 5th<br>
 🧩 Board Member / CTF Team @ H-T8<br>
 <br>
-Writeups can be found [here](https://github.com/ilpakka/ctf).<br>
+Writeups for CTFs can be found [here](https://github.com/ilpakka/ctf).<br>
 <br>
 ![](https://komarev.com/ghpvc/?username=ilpakka&color=orange)
 
