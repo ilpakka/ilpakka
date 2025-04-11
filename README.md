@@ -5,7 +5,7 @@
 💎 Chess problemist / Polyglot / Tolkien Enthusiast / Enjoyer of Games<br>
 💼 Background in Fraud Investigation, AML, IR, and SAR/STR<br>
 <br>
-🏆 THM Top 10%, Chess.com Ranked 5th<br>
+🏆 HTB Top 800 / THM Top 10% / Chess.com Ranked 5th<br>
 🧩 Board Member / CTF Team @ H-T8<br>
 <br>
 Writeups for CTFs can be found [here](https://github.com/ilpakka/ctf).<br>
