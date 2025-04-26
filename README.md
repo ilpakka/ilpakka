@@ -1,11 +1,11 @@
 <div align="center">
 
 # Welcome. My name is Ilja Ylikangas.
-🎓 Studying Information Technology & Cybersecurity<br>
+🎓 Information Technology & Cybersecurity<br>
 💎 Chess problemist / Polyglot / Tolkien Enthusiast / Enjoyer of Games<br>
 💼 Background in Fraud Investigation, AML, IR, and SAR/STR<br>
 <br>
-🧩 Board Member / CTF Team @ H-T8<br>
+🧩 Board Member / CTF Lead @ H-T8<br>
 <br>
 Writeups for CTFs can be found [here](https://github.com/ilpakka/ctf).<br>
 <br>
