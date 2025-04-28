@@ -16,5 +16,5 @@ Writeups for CTFs can be found [here](https://github.com/ilpakka/ctf).<br>
 ---
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ilpakka&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000&border_color=00000000&text_color=fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilpakka&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=00000000&border_color=00000000&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilpakka&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=9&bg_color=00000000&border_color=00000000&text_color=fff)
 </div>
