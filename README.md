@@ -5,7 +5,7 @@
 💎 Chess problemist / Polyglot / Tolkien Enthusiast / Enjoyer of Games<br>
 💼 Background in Fraud Investigation, AML, IR, and SAR/STR<br>
 <br>
-🧩 Board Member / CTF Lead @ [H-T8](https://askdatdude.github.io/H-T8/)<br>
+🧩 Board Member / CTF Lead @ [H-T8](https://rbin.dev/H-T8/)<br>
 <br>
 Writeups for CTFs can be found [here](https://github.com/ilpakka/ctf).<br>
 <br>
